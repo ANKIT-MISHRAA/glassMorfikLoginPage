@@ -69,3 +69,18 @@ signup-footer p {
 signup-footer p a {
     color:hsl(204, 77%, 40%);
 }
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius:100px;
+    background: linear-gradient(to right, #ffffff33, #ffffffff);
+    position: absolute;
+}
+.c1 {
+    top:60px;
+    left:40px;
+}
+.c2{
+    bottom: 200;
+    right: 40px;
+}
