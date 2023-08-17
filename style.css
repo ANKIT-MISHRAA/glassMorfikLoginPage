@@ -12,3 +12,17 @@ body { font-family: 'Lato', sans-serif;
     height: 100vh;
     background: linear-gradient(to top left,#3ed8ff,#a8f5ff);
 }
+.inner-box{
+    width: 400px;
+    margin: 0 auto; 
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+    background: linear-gradient(to top left,#ffffffff, #ffffff33);
+    backdrop-filter: blur(8px);
+    padding: 20px 40px ;
+    border-radius: 8px;
+    box-shadow: 3px 3px 5px #133750;
+    z-index: 2;
+
+}
